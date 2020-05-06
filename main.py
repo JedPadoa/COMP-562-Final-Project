@@ -5,7 +5,7 @@ from gda_training import gda_nn
 from gdm_training import gdm_nn
 from gd_training import gd_nn
 
-data_file = raw_input("Enter path of letter.data file: ")
+data_file = input("Enter path of letter.data file: ")
 
 def processing(input):
 
