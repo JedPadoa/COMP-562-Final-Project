@@ -1,4 +1,6 @@
-# COMP-562-Final-Project
+# Optical Character Recognition
+
+This is a python program capable of recognizing written alphabet characters at an accuracy rate of up to 90%, depending on the type of gradient descent training used.
 
 Running the program: 
 
